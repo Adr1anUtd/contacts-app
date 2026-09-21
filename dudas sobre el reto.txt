@@ -1,0 +1,11 @@
+Saludos equipo de Mastermind,
+
+Dejo este texto porque el reto es algo confuso ya que mencionan de crear direcciones 
+para los contactos de un usuario pero luego en los anunciados hablan de contactos del usuario.
+Al final he hecho direcciones para los contactos del usuario como dice al principio del enunciado
+y no para los usuarios como se menciona posteriormente.
+
+Si el proyecto está mal por favor dejarme claro para quien son las direcciones o si son para ambos
+usuario y sus contactos. 
+
+Gracias de antemano.
